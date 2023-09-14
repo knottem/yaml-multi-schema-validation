@@ -9,5 +9,5 @@ computer:
     type: ddr4
   disk:
     manufacturer: Seagate
-    size: 1tb
-    type: 3.5
+    size: 10000000000000
+    type: "3.5"
