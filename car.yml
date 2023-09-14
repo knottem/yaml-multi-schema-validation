@@ -1,2 +1,8 @@
 car:
   manufacturer: volvo
+  model: xc90
+  year: "1989"
+  attributes:
+    - sparewheel
+    - carstereo
+  reg: ABC123
