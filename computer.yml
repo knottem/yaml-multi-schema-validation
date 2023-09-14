@@ -1,3 +1,13 @@
 computer:
   cpu:
     cores: 8
+    manufacturer: Intel
+    frequency: 4.2
+  memory:
+    manufacturer: Kingston
+    size: 32
+    type: ddr4
+  disk:
+    manufacturer: Seagate
+    size: 1tb
+    type: 3.5
